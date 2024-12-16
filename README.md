@@ -20,6 +20,7 @@ Create virtual envoiroment
 ```bash
 python3 -m venv env
 ```
+Install requirements packages
 
 Activate virtual envoiroment
 
